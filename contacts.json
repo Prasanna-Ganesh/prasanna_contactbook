@@ -1,0 +1,42 @@
+[
+    {
+        "id": 25,
+        "name": "kishore",
+        "phone": 7828723742,
+        "email": "ak@gmail.com",
+        "create_time": "2023-05-21T08:39:30.492763+05:30",
+        "modify_time": "2023-05-21T08:39:30.492766+05:30"
+    },
+    {
+        "id": 27,
+        "name": "deepak",
+        "phone": 7828723746,
+        "email": "dee@gmail.com",
+        "create_time": "2023-05-21T08:40:40.467306+05:30",
+        "modify_time": "2023-05-21T08:40:40.467310+05:30"
+    },
+    {
+        "id": 28,
+        "name": "kishore1",
+        "phone": 7828723747,
+        "email": "kis@gmail.com",
+        "create_time": "2023-05-21T08:40:40.467310+05:30",
+        "modify_time": "2023-05-21T08:40:40.467310+05:30"
+    },
+    {
+        "id": 39,
+        "name": "kishore3",
+        "phone": 7828723741,
+        "email": "ak@gmail.com",
+        "create_time": "2023-05-21T08:44:35.862680+05:30",
+        "modify_time": "2023-05-21T08:44:35.862683+05:30"
+    },
+    {
+        "id": 42,
+        "name": "AJITH",
+        "phone": 7828735642,
+        "email": "kis@gmail.com",
+        "create_time": "2023-05-21T09:22:22.858460+05:30",
+        "modify_time": "2023-05-21T09:22:22.858461+05:30"
+    }
+]
